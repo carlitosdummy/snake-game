@@ -1,7 +1,7 @@
 # Snake Game
 
 This is a basic Snake game implemented using HTML, CSS, and JavaScript.
-![gameplay](gameplay.png)
+![gameplay](./images/preview.jpeg)
 ## How to Play
 
 Enter in this website to play the game: [Snake Game](https://dummy-snake-game.netlify.app/)
